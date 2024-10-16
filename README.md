@@ -67,13 +67,7 @@ I am Milad Motavakkel, a full-stack designer and developer. I am constantly stri
 </div>  
   
 
-<br/>  
 
-
-## Github Stats  
-  
-
-<br/>  
 
 
 ## Recent Blog Posts  
