@@ -1,7 +1,7 @@
 
 
 ### About me  
-I am Milad Motavakkel, a full-stack designer and developer. I am constantly striving to update my knowledge and skills while deepening my expertise in various programming languages and frameworks. I place great importance on exploring the latest advancements and the cutting edge of technology in programming knowledge. In this pursuit, I continue to learn even in my free time to deliver my projects with the highest quality  
+I am Milad Motavakel, a full-stack designer and developer. I am constantly striving to update my knowledge and skills while deepening my expertise in various programming languages and frameworks. I place great importance on exploring the latest advancements and the cutting edge of technology in programming knowledge. In this pursuit, I continue to learn even in my free time to deliver my projects with the highest quality  
   
 
 <br/>  
