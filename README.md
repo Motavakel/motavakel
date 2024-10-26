@@ -3,6 +3,8 @@
 ### About me  
 I am Milad Motavakel, a full-stack designer and developer. I am constantly striving to update my knowledge and skills while deepening my expertise in various programming languages and frameworks. I place great importance on exploring the latest advancements and the cutting edge of technology in programming knowledge. In this pursuit, I continue to learn even in my free time to deliver my projects with the highest quality  
 
+</p>
+<p align="justify">
 من میلاد متوکل، طراح و توسعه‌دهنده فول‌استک هستم. همواره در تلاش هستم تا دانش و مهارت‌هایم را به‌روز نگه‌دارم و در عین حال تخصصم را در زبان‌ها و فریم‌ورک‌های مختلف برنامه‌نویسی عمیق‌تر کنم. به کاوش در جدیدترین پیشرفت‌ها و مرزهای فناوری در برنامه‌نویسی اهمیت زیادی می‌دهم. در این مسیر، حتی در اوقات فراغتم نیز به یادگیری ادامه می‌دهم تا پروژه‌هایم را با بالاترین کیفیت ارائه دهم.
 </p>
 <br/>  
