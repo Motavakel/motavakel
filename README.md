@@ -70,12 +70,5 @@ I am Milad Motavakel, a full-stack designer and developer. I am constantly striv
 <a href="https://instagram.com/motavakel.ir" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
-
 </div>  
-  
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=Motavakel&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
+ 
