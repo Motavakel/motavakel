@@ -79,8 +79,3 @@ I am Milad Motavakel, a full-stack designer and developer. I am constantly striv
   
 
 <br/>  
-
-
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
