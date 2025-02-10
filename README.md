@@ -7,7 +7,7 @@ I am Milad Motavakel, a full-stack designer and developer. I am constantly striv
 
   
 ### درباره من
-<p align="justify">من میلاد متوکل، توسعه‌دهنده فول‌استک هستم آخرین پروژه‌هایم را در این صفحه مشاهده کنید
+<p align="justify">من میلاد متوکل، توسعه‌دهنده فول‌استک هستم آخرین پروژه‌هایم را می توانید در این صفحه مشاهده کنید
 
 </p>
 <br/>  
